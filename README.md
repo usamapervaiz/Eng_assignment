@@ -30,10 +30,12 @@ We can use a sweep line algorithm that can find all crossings in a set of line s
 
 Please refer to the notebook for the complete details of implementation.
 
-<b> To Run the code::</b> <br>
+<b> To Run the code:</b> <br>
 
 Example Usage:
-python heart_flow.py --data_path --bentley_ottmann
+usage: heart_flow.py [-h] [--data_path DATA_PATH]
+                     [--bentley_ottmann BENTLEY_OTTMANN] <br>
 
---data_path "/path/to_data/"
---bentley_ottmann True (Run the bentley_ottmann algorithm otherwise it will use the simple multiple lines intersecction algorithm)
+--data_path "/path/to_data/" <br>
+--bentley_ottmann True (Run the bentley_ottmann algorithm otherwise it will use the simple multiple lines intersecction algorithm) <br>
+
