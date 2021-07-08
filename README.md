@@ -6,6 +6,6 @@ a) Determine pair-wise intersections of lines (e.g., which line intersecting whi
 b) Construct an adjaceny matrix to represent this finite undirected graph.
 c) Clustering the adjaceny matrix to identify the number of total clusters.
 
-<img src="https://user-images.githubusercontent.com/22897244/124961991-0142f600-e016-11eb-97ab-c6e28bc95bee.png" width="600">
+<img src="https://user-images.githubusercontent.com/22897244/124961991-0142f600-e016-11eb-97ab-c6e28bc95bee.png" width="400">
      
      
