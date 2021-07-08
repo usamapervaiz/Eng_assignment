@@ -29,3 +29,8 @@ We can use a sweep line algorithm that can find all crossings in a set of line s
 <img src="https://user-images.githubusercontent.com/22897244/124963549-e1143680-e017-11eb-9d02-ed77cdca3a28.png" width="400">
 
 Please refer to the notebook for the complete details of implementation.
+
+<b> To Run the code::</b> <br>
+
+python heeart_flow.py --data_path --bentley_ottmann
+
