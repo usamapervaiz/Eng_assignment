@@ -19,3 +19,12 @@ A linear Bezier curve can describe how far B(t) is from P0 to P1. Example given 
 <br>
 
 We can define any two lines intersection in terms of Bezier parameters (detailed mathematics in jupyter notebook).
+
+
+<b>  Multiple Lines Intersection:</b> <br>
+
+We can use a sweep line algorithm that can find all crossings in a set of line segments (reasons and explanation detailed in notebook). <br>
+
+<img src="https://user-images.githubusercontent.com/22897244/124963549-e1143680-e017-11eb-9d02-ed77cdca3a28.png" width="400">
+
+Please refer to the notebook for the complete details of 
