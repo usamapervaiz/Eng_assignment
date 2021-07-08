@@ -1,6 +1,6 @@
 # Eng_assignment
 
-Please refer to the notebook for the complete details of implementation. <br>
+Please refer to the notebook for the complete details of implementation. Summary given below: <br>
 
 The approach is comprised of following steps: <br>
 a) Determine pair-wise intersections of lines (e.g., which line intersecting which line?) <br>
