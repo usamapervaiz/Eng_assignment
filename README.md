@@ -32,5 +32,8 @@ Please refer to the notebook for the complete details of implementation.
 
 <b> To Run the code::</b> <br>
 
-python heeart_flow.py --data_path --bentley_ottmann
+Example Usage:
+python heart_flow.py --data_path --bentley_ottmann
 
+--data_path "/path/to_data/"
+--bentley_ottmann True (Run the bentley_ottmann algorithm otherwise it will use the simple multiple lines intersecction algorithm)
