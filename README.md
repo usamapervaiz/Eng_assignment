@@ -10,13 +10,12 @@ c) Clustering the adjaceny matrix to identify the number of total clusters. <br>
 <br>     
      
 
-Line-Line Intersection: <br>
+<b> Line-Line Intersection:</b> <br>
 
-<b> Bezier Curve:</b>
     
 A linear Bezier curve can describe how far B(t) is from P0 to P1. Example given below: <br>
   
 <img src="https://user-images.githubusercontent.com/22897244/124962761-eb820080-e016-11eb-99a9-3b63da949421.png" width="400">
 <br>
 
-We cab define L1 and L2 in terms of Bezier parameters (detailed mathematics in jupyter notebook.
+We can define any two lines intersection in terms of Bezier parameters (detailed mathematics in jupyter notebook).
